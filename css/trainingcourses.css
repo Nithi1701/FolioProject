@@ -1,0 +1,68 @@
+body{
+    background-color: black;
+    margin-left: 170px;
+    margin-right: 170px;
+}
+.navbar ul{
+  list-style-type: none;
+  overflow: hidden;
+  background-color: black;
+}
+.navbar li{
+  float: left;
+}
+.navbar li a{
+  display: block;
+  color: #d9d7c1;
+  text-align: center;
+  padding: 20px 20px;
+  text-decoration: none;
+}
+.navbar li a:hover{
+  background-color: dimgray;
+}
+section{
+    width: 1600px;
+    height: 1050px;
+    background-color: #d9d7c1;
+}
+.starter img{
+    width: 40%;
+    height: 40%;
+    float: right;
+    padding-top: 50px;
+    padding-right: 50px;
+}
+.hello img{
+    width: 30%;
+    height: 30%;
+    float: left;
+    padding-left: 130px;
+    padding-right: 50px;
+}
+.text1{
+    padding-top: 50px;
+    padding-right: 20pxx;
+    padding-bottom: 50px;
+    padding-left: 50px;
+}
+.text1 h1{
+    font-size: 2.5em;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+.text2{
+    padding-bottom: 350px;
+}
+.text2 h1{
+    font-size: 2.5em;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    padding-right: 20px;
+}
+.text1,.text2 p{
+    font-size: 19px;
+}
+.text1,.text2 li{
+    font-size: 19px;
+}
